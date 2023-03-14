@@ -2,10 +2,13 @@
     "mahasiswa" : [
         {"id" : 1,
         "nama" : "Rahmat",
-        "alamat" : "malang"},
+        "alamat" : "Surabaya"},
         {"id" : 2,
-        "nama" : "dian",
-        "alamat" : "malang"}
+        "nama" : "Dian",
+        "alamat" : "Malang"},
+        {"id" : 3,
+        "nama" : "Jimin",
+        "alamat" : "Pasuruan"}
     ],
     "organisasi":[
         {"id" : 1, "Minji" : "Seni", "sekretariat" : "Gedung AS"},
