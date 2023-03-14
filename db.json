@@ -1,0 +1,14 @@
+{
+    "mahasiswa" : [
+        {"id" : 1,
+        "nama" : "Rahmat",
+        "alamat" : "malang"},
+        {"id" : 2,
+        "nama" : "dian",
+        "alamat" : "malang"}
+    ],
+    "organisasi":[
+        {"id" : 1, "nama" : "Seni", "sekretariat" : "Gedung AS"},
+        {"id" : 1, "nama" : "Seni", "sekretariat" : "Gedung AS"}
+    ]
+}
